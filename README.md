@@ -1,6 +1,10 @@
 # inputSelectBinder.js
 Simple script that allows you to dynamiccaly pass ```<input>``` value to the ```<select>``` list.
 
+<p align="center">
+  <img src="preview.gif" alt="Script functionality preview">
+</p>
+
 ## How to use?
 First copy file ```inputSelectBinder.min.js``` to your project directory and then add ```<script>``` tag to your HTML document, right before ```</body>``` tag, for example:
 ```html
