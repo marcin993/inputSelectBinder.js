@@ -1,0 +1,18 @@
+{
+  "name": "inputSelectBinder.js",
+  "version": "1.0.0",
+  "description": "Simple script that allows you to dynamiccaly pass <input> value to the <select> list.",
+  "main": "js/inputSelectBinder.js",
+  "repository": "https://github.com/marcin993/inputSelectBinder.js.git",
+  "author": "Marcin Lasecki",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^4.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}

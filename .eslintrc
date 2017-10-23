@@ -1,0 +1,16 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "prefer-destructuring": ["error", {
+      "object": false,
+      "array": false
+    }],
+    "func-names": ["error", "never"],
+    "no-var": 0,
+    "prefer-template": 0,
+    "prefer-arrow-callback": 0,
+  },
+  "globals": {
+    "document": false
+  }
+}
